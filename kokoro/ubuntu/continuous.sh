@@ -5,5 +5,5 @@ set -e
 # Display commands being run.
 set -x
 
-cd git/kokoro-codelab-skhatri
+cd github/kokoro-codelab-skhatri
 ./build.sh
