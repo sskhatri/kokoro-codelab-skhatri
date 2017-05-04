@@ -5,8 +5,4 @@ set -e
 # Display commands being run.
 set -x
 
-if [ "$1" == "release" ]; then
-  javac -g:none Hello.java
-else
-  javac Hello.java
-fi
+echo "Hello world. Welcome to the kokoro test."
