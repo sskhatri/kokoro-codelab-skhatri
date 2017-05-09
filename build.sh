@@ -5,4 +5,4 @@ set -e
 # Display commands being run.
 set -x
 
-echo "Hello world. Welcome to the kokoro test."
+echo "Hello world. Welcome. Setting up kokoro."
