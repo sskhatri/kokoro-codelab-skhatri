@@ -1,1 +1,2 @@
-echo "Inside presubmit.sh"
+cd github/kokoro-codelab-skhatri
+./build.sh

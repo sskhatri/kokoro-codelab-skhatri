@@ -1,2 +1,1 @@
-cd github/kokoro-codelab-skhatri
-./build.sh
+echo "Inside continuous.sh"
