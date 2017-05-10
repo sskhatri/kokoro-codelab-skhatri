@@ -1,1 +1,1 @@
-echo "Inside presubmit.sh"
+echo "Inside presubmit"
